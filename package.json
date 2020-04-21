@@ -1,0 +1,22 @@
+{
+  "name": "word-define",
+  "version": "1.0.0",
+  "description": "Word Define is a English-dictionary based web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thealiflab/DefineWords.git"
+  },
+  "keywords": [
+    "dictionary"
+  ],
+  "author": "Alif",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thealiflab/DefineWords/issues"
+  },
+  "homepage": "https://github.com/thealiflab/DefineWords#readme"
+}
